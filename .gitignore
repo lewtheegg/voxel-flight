@@ -1,0 +1,14 @@
+# build output
+build/
+*.elf
+*.bin
+*.map
+
+# screen captures (make GIFs from them with tools/frames.py; the GIFs go in media/)
+*.cap
+capture*/
+
+# editor / OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
