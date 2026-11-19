@@ -10,6 +10,10 @@ tiny ESP32-C3.**
 
 ![Flying into a waterfront city at sunset as the lights come on](media/sunset-city.gif)
 
+**▶ Watch the 30-minute demo on YouTube** (click the picture):
+
+[![Voxel Flight – 30 minute demo on YouTube](https://img.youtube.com/vi/XE_0soNe3UQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XE_0soNe3UQ)
+
 Pick one of three planes, then watch it fly itself third-person over a world that's generated
 as you go: patchwork farmland, lakes and woods, snowy mountains, sandstone canyons, coastline,
 villages, and skyscraper cities with suspension bridges. The day turns from sunrise to sunset to
