@@ -23,8 +23,8 @@ moonlit night with city lights coming on window by window. Every boot is a new w
 |:-:|:-:|:-:|
 | ![Swooping between skyscrapers](media/city-swoop.gif) | ![Loop the loop](media/loop.gif) | ![Snowy mountains](media/mountains.gif) |
 | Down a boulevard between the towers | The Racer loops the loop | Carving past the mountains |
-| ![Sunrise over the water](media/sunrise.gif) | ![Plane select screen](media/plane-select.gif) | |
-| Sunrise over the coast | Choosing a plane | |
+| ![Sunrise over the water](media/sunrise.gif) | ![Plane select screen](media/plane-select.gif) | ![A city at night](media/night-city.gif) |
+| Sunrise over the coast | Choosing a plane | A city at night under the moon |
 
 *These are the real frames from the device (captured over USB, see
 [Recording videos](#recording-videos)), shown 5× larger. On the 0.6" screen it's a sharp,
